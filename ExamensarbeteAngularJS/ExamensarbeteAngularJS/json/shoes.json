@@ -1,0 +1,52 @@
+﻿{
+  "shoes": [
+    {
+      "name": "Stan Smith W",
+      "color": "Vita",
+      "brand": "Adidas",
+      "image": "../image/adidas.png#",
+      "size": [
+        {
+          "size": 36,
+          "quantity": 2
+        },
+        {
+          "size": 37,
+          "quantity": 1
+        },
+        {
+          "size": 38,
+          "quantity": 0
+        },
+        {
+          "size": 39,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "name": "Båstad 1",
+      "color": "Vita/Rosa",
+      "brand": "Svea",
+      "image": "../image/svea.png#",
+      "size": [
+        {
+          "size": 36,
+          "quantity": 1
+        },
+        {
+          "size": 37,
+          "quantity": 3
+        },
+        {
+          "size": 38,
+          "quantity": 2
+        },
+        {
+          "size": 39,
+          "quantity": 1
+        }
+      ]
+    }
+  ]
+}
