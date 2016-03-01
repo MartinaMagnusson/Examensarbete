@@ -2,10 +2,16 @@
   "shoes": [
     {
       "name": "Stan Smith W",
-      "color": "Vita",
+      "colors": [
+        { "color": "Vit" }
+      ],
       "brand": "Adidas",
       "image": "../image/adidas.png#",
       "size": [
+        {
+          "size": 35,
+          "quantity": 2
+        },
         {
           "size": 36,
           "quantity": 2
@@ -26,9 +32,146 @@
     },
     {
       "name": "Båstad 1",
-      "color": "Vita/Rosa",
+      "colors": [
+        { "color": "Vit" },
+        { "color": "Rosa" }
+      ],
       "brand": "Svea",
       "image": "../image/svea.png#",
+      "size": [
+        {
+          "size": 36,
+          "quantity": 1
+        },
+        {
+          "size": 37,
+          "quantity": 3
+        },
+        {
+          "size": 38,
+          "quantity": 2
+        },
+        {
+          "size": 39,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Block Heel",
+      "colors": [
+        { "color": "Svart" }
+      ],
+      "brand": "NLY Shoes",
+      "image": "../image/nelltsvart.png#",
+      "size": [
+        {
+          "size": 36,
+          "quantity": 1
+        },
+        {
+          "size": 37,
+          "quantity": 3
+        },
+        {
+          "size": 38,
+          "quantity": 2
+        },
+        {
+          "size": 39,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "Plain Platform",
+      "colors": [
+        { "color": "Korall" }
+      ],
+      "brand": "NLY Shoes",
+      "image": "../image/nellykorall.png#",
+      "size": [
+        {
+          "size": 36,
+          "quantity": 3
+        },
+        {
+          "size": 37,
+          "quantity": 3
+        },
+        {
+          "size": 38,
+          "quantity": 1
+        },
+        {
+          "size": 39,
+          "quantity": 4
+        },
+        {
+          "size": 40,
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "name": "Kendrick Slip On",
+      "colors": [
+        { "color": "Vanilla" }
+      ],
+      "brand": "Michael Kors",
+      "image": "../image/mk.png#",
+      "size": [
+        {
+          "size": 36,
+          "quantity": 2
+        },
+        {
+          "size": 37,
+          "quantity": 1
+        },
+        {
+          "size": 38,
+          "quantity": 0
+        },
+        {
+          "size": 39,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "name": "Sharp Pointy",
+      "colors": [
+        { "color": "Svart" }
+      ],
+      "brand": "NLY Trend",
+      "image": "../image/nellttrend.png#",
+      "size": [
+        {
+          "size": 36,
+          "quantity": 1
+        },
+        {
+          "size": 37,
+          "quantity": 3
+        },
+        {
+          "size": 38,
+          "quantity": 2
+        },
+        {
+          "size": 39,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "name": "U Classic Slip-On",
+      "colors": [
+        { "color": "Vit" }
+      ],
+      "brand": "VANS",
+      "image": "../image/vans.png#",
       "size": [
         {
           "size": 36,

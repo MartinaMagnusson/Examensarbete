@@ -66,6 +66,12 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\Shoes.css" />
+    <Content Include="image\MK.png" />
+    <Content Include="image\nelltsvart.png" />
+    <Content Include="image\nellttrend.png" />
+    <Content Include="image\nellykorall.png" />
+    <Content Include="image\vans.png" />
     <Content Include="packages.config" />
     <Content Include="json\shoes.json" />
     <Content Include="Scripts\version.json" />
@@ -122,7 +128,6 @@
     <Content Include="Scripts\angular-scenario.js" />
     <Content Include="Scripts\angular-touch.js" />
     <Content Include="Scripts\angular-touch.min.js" />
-    <None Include="Scripts\angular.intellisense.js" />
     <Content Include="Scripts\angular.js" />
     <Content Include="Scripts\angular.min.js" />
     <Content Include="Scripts\bootstrap.js" />
@@ -883,6 +888,7 @@
     <Content Include="Scripts\jquery-1.9.1.js" />
     <Content Include="Scripts\jquery-1.9.1.min.js" />
     <None Include="Scripts\_references.js" />
+    <Content Include="shoes.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

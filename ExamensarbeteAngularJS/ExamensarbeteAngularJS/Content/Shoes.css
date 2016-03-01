@@ -1,0 +1,29 @@
+﻿h2{
+    font-size: 20px;
+}
+h3{
+    font-size: 16px;
+}
+
+p{
+    font-size: 12px;
+}
+
+.shoeColumn {
+    margin-top: 30px;
+}
+
+.size {
+    border: 1px solid gray;
+    padding: 5px;
+    margin-right: 5px;
+}
+
+.gray {
+    color: #b3b3b3;
+    border: 1px solid #b3b3b3;
+}
+
+.display-none{
+    display: none;
+}
