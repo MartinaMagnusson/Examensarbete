@@ -3,24 +3,21 @@
 <head>
     <title>AngularJS</title>
     <meta charset="utf-8" />
-    <link href="Content/bootstrap.min.css" rel="stylesheet" />
-    <link href="Content/Shoes.css" rel="stylesheet" />
-    <script src="Scripts/angular.min.js"></script>
-    <script src="app/app.js"></script>
+    <link href="../Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="../Content/Shoes.css" rel="stylesheet" />
+    <script src="../Scripts/angular.min.js"></script>
+    <script src="../app/app.js"></script>
+    <script src="../app/filter.js"></script>
 </head>
+
 <body ng-controller="ShoesController as ShoesCtro">
     <header class="container">
         <h1>AngularJS</h1>
         <p>Examensarbete</p>
     </header>
     <div class="container">
-        <div class="col-sm-3">
-            <input ng-model="searchText" class="form-control" type="search" placeholder="Sök på namn/märke" />
-        </div>
-        <div class="col-sm-3">
-            <select ng-model="search.size" class="form-control" ng-options="shoeSize for shoeSize in getSize()">
-                <option class="display-none" value="">-- Välj storlek --</option>
-            </select>
+        <div class="col-sm-6">
+            <input ng-model="search.text" class="form-control" type="search" placeholder="Sök på namn/märke" />
         </div>
         <div class="col-sm-3">
             <select ng-model="search.colors" class="form-control" ng-options="shoeColor for shoeColor in getColor()">
@@ -29,13 +26,13 @@
         </div>
         <div class="col-sm-3">
             <select class="form-control" ng-model="sortColumn">
-                <option class="display-none" value="">-- Sortera efter --</option>
+                <option value="">-- Sortera efter --</option>
                 <option value="name">Namn</option>
                 <option value="brand">Märke</option>
             </select>
         </div>
-
-        <div ng-include="shoesView"></div>
+        <p>{{error}}</p>
+        <shoes></shoes>
     </div>
 </body>
 </html>

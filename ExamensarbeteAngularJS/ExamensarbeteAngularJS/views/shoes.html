@@ -1,0 +1,10 @@
+﻿<div class="shoeColumn col-sm-3" ng-repeat="shoe in shoes | searchShoes:search | orderBy:sortColumn track by shoe.name">
+    <div class="thumbnail">
+        <img ng-src="{{shoe.image}}" />
+    </div>
+    <h2>{{shoe.name }}</h2>
+    <h3>{{shoe.brand }}</h3>
+    <p>
+        <span ng-repeat="shoeColor in shoe.colors track by shoeColor.color">{{shoeColor.color}} </span>
+    </p>
+</div>

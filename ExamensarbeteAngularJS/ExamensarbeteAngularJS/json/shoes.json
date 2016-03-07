@@ -6,29 +6,7 @@
         { "color": "Vit" }
       ],
       "brand": "Adidas",
-      "image": "../image/adidas.png#",
-      "size": [
-        {
-          "size": 35,
-          "quantity": 2
-        },
-        {
-          "size": 36,
-          "quantity": 2
-        },
-        {
-          "size": 37,
-          "quantity": 1
-        },
-        {
-          "size": 38,
-          "quantity": 0
-        },
-        {
-          "size": 39,
-          "quantity": 3
-        }
-      ]
+      "image": "../image/adidas.png#"
     },
     {
       "name": "Båstad 1",
@@ -37,25 +15,7 @@
         { "color": "Rosa" }
       ],
       "brand": "Svea",
-      "image": "../image/svea.png#",
-      "size": [
-        {
-          "size": 36,
-          "quantity": 1
-        },
-        {
-          "size": 37,
-          "quantity": 3
-        },
-        {
-          "size": 38,
-          "quantity": 2
-        },
-        {
-          "size": 39,
-          "quantity": 1
-        }
-      ]
+      "image": "../image/svea.png#"
     },
     {
       "name": "Block Heel",
@@ -63,25 +23,7 @@
         { "color": "Svart" }
       ],
       "brand": "NLY Shoes",
-      "image": "../image/nelltsvart.png#",
-      "size": [
-        {
-          "size": 36,
-          "quantity": 1
-        },
-        {
-          "size": 37,
-          "quantity": 3
-        },
-        {
-          "size": 38,
-          "quantity": 2
-        },
-        {
-          "size": 39,
-          "quantity": 1
-        }
-      ]
+      "image": "../image/nelltsvart.png#"
     },
     {
       "name": "Plain Platform",
@@ -89,29 +31,7 @@
         { "color": "Korall" }
       ],
       "brand": "NLY Shoes",
-      "image": "../image/nellykorall.png#",
-      "size": [
-        {
-          "size": 36,
-          "quantity": 3
-        },
-        {
-          "size": 37,
-          "quantity": 3
-        },
-        {
-          "size": 38,
-          "quantity": 1
-        },
-        {
-          "size": 39,
-          "quantity": 4
-        },
-        {
-          "size": 40,
-          "quantity": 2
-        }
-      ]
+      "image": "../image/nellykorall.png#"
     },
     {
       "name": "Kendrick Slip On",
@@ -119,25 +39,7 @@
         { "color": "Vanilla" }
       ],
       "brand": "Michael Kors",
-      "image": "../image/mk.png#",
-      "size": [
-        {
-          "size": 36,
-          "quantity": 2
-        },
-        {
-          "size": 37,
-          "quantity": 1
-        },
-        {
-          "size": 38,
-          "quantity": 0
-        },
-        {
-          "size": 39,
-          "quantity": 3
-        }
-      ]
+      "image": "../image/mk.png#"
     },
     {
       "name": "Sharp Pointy",
@@ -145,25 +47,7 @@
         { "color": "Svart" }
       ],
       "brand": "NLY Trend",
-      "image": "../image/nellttrend.png#",
-      "size": [
-        {
-          "size": 36,
-          "quantity": 1
-        },
-        {
-          "size": 37,
-          "quantity": 3
-        },
-        {
-          "size": 38,
-          "quantity": 2
-        },
-        {
-          "size": 39,
-          "quantity": 1
-        }
-      ]
+      "image": "../image/nellttrend.png#"
     },
     {
       "name": "U Classic Slip-On",
@@ -171,25 +55,40 @@
         { "color": "Vit" }
       ],
       "brand": "VANS",
-      "image": "../image/vans.png#",
-      "size": [
-        {
-          "size": 36,
-          "quantity": 1
-        },
-        {
-          "size": 37,
-          "quantity": 3
-        },
-        {
-          "size": 38,
-          "quantity": 2
-        },
-        {
-          "size": 39,
-          "quantity": 1
-        }
-      ]
+      "image": "../image/vans.png#"
+    },
+    {
+      "name": "Båstad",
+      "colors": [
+        { "color": "Vit" },
+        { "color": "Rosa" }
+      ],
+      "brand": "Svea",
+      "image": "../image/svea.png#"
+    },
+    {
+      "name": "Stan Smith",
+      "colors": [
+        { "color": "Vit" }
+      ],
+      "brand": "Adidas",
+      "image": "../image/adidas.png#"
+    },
+    {
+      "name": "Kendrick",
+      "colors": [
+        { "color": "Vanilla" }
+      ],
+      "brand": "Michael Kors",
+      "image": "../image/mk.png#"
+    },
+    {
+      "name": "Fulton Driver",
+      "colors": [
+        { "color": "Svart" }
+      ],
+      "brand": "Michael Kors",
+      "image": "../image/nellttrend.png#"
     }
   ]
 }
