@@ -68,13 +68,11 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="app\directive.js" />
     <Content Include="app\filter.js" />
+    <Content Include="app\controller.js" />
     <Content Include="Content\Shoes.css" />
-    <Content Include="image\MK.png" />
-    <Content Include="image\nelltsvart.png" />
-    <Content Include="image\nellttrend.png" />
-    <Content Include="image\nellykorall.png" />
-    <Content Include="image\vans.png" />
+    <Content Include="image\128803-0001_7.jpg" />
     <Content Include="packages.config" />
     <Content Include="json\shoes.json" />
     <Content Include="Scripts\version.json" />
@@ -105,8 +103,6 @@
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
-    <Content Include="image\Adidas.png" />
-    <Content Include="image\svea.png" />
     <Content Include="views\index.html" />
     <Content Include="Scripts\angular-animate.js" />
     <Content Include="Scripts\angular-animate.min.js" />

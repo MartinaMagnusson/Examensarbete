@@ -1,18 +1,23 @@
-﻿h2{
+﻿h2 {
     font-size: 20px;
 }
-h3{
+
+h3 {
     font-size: 16px;
 }
 
-p{
+p {
     font-size: 12px;
+}
+
+h2, h3, p {
+    padding: 0 5px;
 }
 
 .shoeColumn {
     margin-top: 30px;
 }
 
-.display-none{
+.display-none {
     display: none;
 }

@@ -1,94 +1,102 @@
 ﻿{
   "shoes": [
     {
+      "id": 1,
       "name": "Stan Smith W",
       "colors": [
         { "color": "Vit" }
       ],
-      "brand": "Adidas",
-      "image": "../image/adidas.png#"
+      "brand": "Adidas"
     },
     {
+      "id": 2,
       "name": "Båstad 1",
       "colors": [
         { "color": "Vit" },
         { "color": "Rosa" }
       ],
-      "brand": "Svea",
-      "image": "../image/svea.png#"
+      "brand": "Svea"
     },
     {
+      "id": 3,
       "name": "Block Heel",
       "colors": [
         { "color": "Svart" }
       ],
-      "brand": "NLY Shoes",
-      "image": "../image/nelltsvart.png#"
+      "brand": "NLY Shoes"
     },
     {
+      "id": 4,
       "name": "Plain Platform",
       "colors": [
         { "color": "Korall" }
       ],
-      "brand": "NLY Shoes",
-      "image": "../image/nellykorall.png#"
+      "brand": "NLY Shoes"
     },
     {
+      "id": 5,
       "name": "Kendrick Slip On",
       "colors": [
         { "color": "Vanilla" }
       ],
-      "brand": "Michael Kors",
-      "image": "../image/mk.png#"
+      "brand": "Michael Kors"
     },
     {
+      "id": 6,
       "name": "Sharp Pointy",
       "colors": [
         { "color": "Svart" }
       ],
-      "brand": "NLY Trend",
-      "image": "../image/nellttrend.png#"
+      "brand": "NLY Trend"
     },
     {
+      "id": 7,
       "name": "U Classic Slip-On",
       "colors": [
         { "color": "Vit" }
       ],
-      "brand": "VANS",
-      "image": "../image/vans.png#"
+      "brand": "VANS"
     },
     {
+      "id": 8,
+      "name": "U Classic Slip-On",
+      "colors": [
+        { "color": "Svart" }
+      ],
+      "brand": "VANS"
+    },
+    {
+      "id": 9,
       "name": "Båstad",
       "colors": [
         { "color": "Vit" },
         { "color": "Rosa" }
       ],
-      "brand": "Svea",
-      "image": "../image/svea.png#"
+      "brand": "Svea"
     },
     {
+      "id": 10,
       "name": "Stan Smith",
       "colors": [
         { "color": "Vit" }
       ],
-      "brand": "Adidas",
-      "image": "../image/adidas.png#"
+      "brand": "Adidas"
     },
     {
+      "id": 11,
       "name": "Kendrick",
       "colors": [
         { "color": "Vanilla" }
       ],
-      "brand": "Michael Kors",
-      "image": "../image/mk.png#"
+      "brand": "Michael Kors"
     },
     {
+      "id": 12,
       "name": "Fulton Driver",
       "colors": [
         { "color": "Svart" }
       ],
-      "brand": "Michael Kors",
-      "image": "../image/nellttrend.png#"
+      "brand": "Michael Kors"
     }
   ]
 }

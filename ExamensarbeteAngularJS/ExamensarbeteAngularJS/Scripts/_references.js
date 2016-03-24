@@ -1,5 +1,7 @@
 ﻿/// <autosync enabled="true" />
 /// <reference path="../app/app.js" />
+/// <reference path="../app/controller.js" />
+/// <reference path="../app/directive.js" />
 /// <reference path="../app/filter.js" />
 /// <reference path="angular.js" />
 /// <reference path="angular-animate.js" />
